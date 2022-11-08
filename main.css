@@ -1,0 +1,33 @@
+.col3{
+    max-width: 32%;
+    overflow-y:auto;
+    max-height: 100vh;
+    float: left;
+}
+.col3 + .col3{
+    border-left:1px solid black;
+}
+#weather_data{
+
+}
+#weather_display {
+
+}
+#weather_timeframe{
+
+}
+
+
+#weather_controls{
+
+}
+#weather_city{
+
+}
+#weather_lat{
+
+}
+#weather_lon{
+
+}
+
